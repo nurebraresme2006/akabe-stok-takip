@@ -1,0 +1,30 @@
+[
+    {
+        "ad": "Çimento 25kg",
+        "kategori": "İnşaat",
+        "adet": 40,
+        "fiyat": 85.5,
+        "kritik_stok": 10
+    },
+    {
+        "ad": "Silikon Şeffaf",
+        "kategori": "Hırdavat",
+        "adet": 5,
+        "fiyat": 45.0,
+        "kritik_stok": 8
+    },
+    {
+        "ad": "PVC Boru 50mm",
+        "kategori": "Tesisat",
+        "adet": 120,
+        "fiyat": 32.75,
+        "kritik_stok": 20
+    },
+    {
+        "ad": "matkap",
+        "kategori": "elektrikli ürünler",
+        "adet": 4,
+        "fiyat": 2600.0,
+        "kritik_stok": 3
+    }
+]
